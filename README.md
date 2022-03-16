@@ -7,7 +7,7 @@
 
 
 
-[![shockiug's GitHub stats](https://github-readme-stats.vercel.app/api?username=shockiu)](https://github.com/shockiu/github-readme-stats)
+[![shockiug's GitHub stats](https://github-readme-stats.vercel.app/api?username=shockiu&show_icons=true&theme=cobalt)](https://github.com/shockiu/github-readme-stats)
 
 <!--
 **shockiu/shockiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
