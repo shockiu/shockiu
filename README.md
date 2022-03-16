@@ -6,6 +6,9 @@
 - 📫 How to reach me:  [Twitter][twitter]! and email galeanocarlosd@gmail.com
 
 
+
+[![shockiug's GitHub stats](https://github-readme-stats.vercel.app/api?username=shockiu)](https://github.com/shockiu/github-readme-stats)
+
 <!--
 **shockiu/shockiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
