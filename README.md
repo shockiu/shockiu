@@ -1,6 +1,6 @@
 ### Hi there my name is ✨Carlos✨, I'm Full stack developer👋
 
-- 🔭 I’m currently working on Fibex Telecom with Angular, Node.js , expres.js, Mysql and Ionic, Caracas Venezuela
+- 🔭 I’m currently working on full stack developer with Angular, Node.js , expres.js, Mysql and Ionic, Caracas Venezuela
 - 🌱 I’m currently learning Raect.js and Redux 
 - 👯 I’m looking to collaborate on with new teams and new projects,  to help me out to improve my abilities
 - 📫 How to reach me:  [Twitter][twitter]! and email galeanocarlosd@gmail.com
